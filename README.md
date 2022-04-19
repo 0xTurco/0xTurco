@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xTurco
 - 👀 I’m interested in ... Offensive Security, CTFs, and Programming
 - 🌱 I’m currently learning ... C, Bash, Python, and Powershell
-- I will upload my writeups as well from machines I have completed on HTB and THM 
+- I will upload my writeups from machines I have completed on HTB and THM 
 
 
 <!---
